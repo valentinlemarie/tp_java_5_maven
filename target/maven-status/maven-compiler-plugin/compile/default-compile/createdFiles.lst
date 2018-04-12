@@ -1,0 +1,11 @@
+org\formation\java\animal\Main.class
+org\formation\java\animal\Aliment.class
+org\formation\java\animal\Animal.class
+org\formation\java\origin\Herbivore.class
+org\formation\java\origin\Omnivore.class
+org\formation\java\animals\Lion.class
+org\formation\java\animals\Homme.class
+org\formation\java\animal\Regime.class
+org\formation\java\animals\Hyene.class
+org\formation\java\animals\Lapin.class
+org\formation\java\origin\Carnivore.class
